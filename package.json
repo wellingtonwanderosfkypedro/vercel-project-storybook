@@ -1,0 +1,15 @@
+{
+  "name": "storybook-static",
+  "version": "1.0.0",
+  "description": "",
+  "main": "142.00e229dd4ddefa2a3b1e.manager.bundle.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
